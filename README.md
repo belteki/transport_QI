@@ -86,13 +86,14 @@ In these Notebooks, recordings have been individually inspected and trimmed to r
 I. [ventilator_data_processing_1_1100_ventilated](ventilator_data_processing_1_1100_ventilated.ipynb): trimming of recordings AL000001 - AL001100. Recordings and recording parts with invasive mechanical ventilation are also identified.
 
 IIa. [ventilator_data_trimming_new](ventilator_data_trimming_new.ipynb): trimming of recordings AT000001 - AT001950. (Only recordings up to AT001942 were included in this study).
+
 IIb. [analysis_ventilated_new](analysis_ventilated_new.ipynb): Recordings and recording parts with invasive mechanical ventilation are  identified.
 
 ### F. Data analysis
 
 Consider recordings `AL000001 - AL001100` and `AT000001 - AT001942` (up to 23/08/2025).
 
-1. [Quality_improvement](Quality_improvement.ipynb): Processing and analysis of the impact of the a systematic quality improvement program on ventilation practice of the neonatal transport service. This work has been published [here](https://link.springer.com/article/10.1007/s00431-026-07220-x)
+I. [Quality_improvement](Quality_improvement.ipynb): Processing and analysis of the impact of the a systematic quality improvement program on ventilation practice of the neonatal transport service. This work has been published [here](https://link.springer.com/article/10.1007/s00431-026-07220-x)
 
 Study period: Every year between `2017 - 2025` (Ventilator data recording started in April 2017). Infants receiving conventional mechanical ventilation.
 
